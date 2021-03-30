@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":3,"metadata":{"UidMock":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"@ionic-native/uid","name":"Uid"}}}},{"__symbolic":"module","version":1,"metadata":{"UidMock":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"@ionic-native/uid","name":"Uid"}}}}]
